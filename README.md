@@ -1,6 +1,6 @@
 # Hihi, I'm Patrick (我叫PP) 👋
 
-## About Me
+## 📝 About Me
 
 I build infrastructure and enjoy solving problems with creative solutions =)
 
@@ -13,7 +13,7 @@ I build infrastructure and enjoy solving problems with creative solutions =)
 - JavaScript
 - Rust
 
-### 🚀 Web Development:
+### 🕸️ Web Development:
 - Next.js
 - React
 
