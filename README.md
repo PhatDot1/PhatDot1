@@ -6,16 +6,11 @@ I build infrastructure and enjoy solving problems with creative solutions =)
 
 ## Technologies & Tools I Work With
 
-### 💻 Languages:
-- Python
-- TypeScript
-- Solidity
-- JavaScript
-- Rust
+### 💻 Languages
+Python · TypeScript · Solidity · JavaScript · Rust  
 
-### 🕸️ Web Development:
-- Next.js
-- React
+### 🌐 Web Development
+Next.js · React  
 
 ### ☁️ Cloud Services & Automation:
 - APIs are the backbone of a good half of what I do here
