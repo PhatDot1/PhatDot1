@@ -13,13 +13,14 @@ Python · TypeScript · Solidity · JavaScript · Rust
 Next.js · React  
 
 ### ☁️ Cloud Services & Automation:
-- APIs are the backbone of a good half of what I do here
-- I use cloud services for marketing analytics pipelines, bots and scripts, operational infrastructure like building internal tools and extensions  
-- Comfortably a DigitalOcean muncher, but I’ll make my way over to AWS or bare metal in due course :P
+- Automated marketing and analytics pipelines
+- Discord bots
+- Internal infrastructure automations
 
 ### 🔧 Infrastructure & Blockchain:
 - RPC Nodes, Validators, & Faucets
 - NFT Minters & Other Utility Smart Contracts (mainly EVM chains and occasionally Solana)
+- Secondary NFT Marketplaces 
 
 ## Oops! Something went wrong
 
