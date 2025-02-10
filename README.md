@@ -10,12 +10,13 @@ I build infrastructure and enjoy solving problems with creative solutions =)
 Python · TypeScript · Solidity · JavaScript · Rust  
 
 ### 🌐 Web Development
-Next.js · React  
+Next.js · React · Langchain · Hardhat · Tailwind · ethers.js · IPFS
 
 ### ☁️ Cloud Services & Automation:
-- Automated marketing and analytics pipelines
+- Automated AI-driven marketing and analytics pipelines
 - Discord bots
 - Internal infrastructure automations
+- Developing AI Agents
 
 ### 🔧 Infrastructure & Blockchain:
 - RPC Nodes, Validators, & Faucets
