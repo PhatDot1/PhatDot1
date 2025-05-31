@@ -7,16 +7,19 @@ I build infrastructure and enjoy solving problems with creative solutions =)
 ## Technologies & Tools I Work With
 
 ### 💻 Languages
-Python · TypeScript · Solidity · JavaScript · Rust  
+Python · TypeScript · Solidity · JavaScript
+
+### Data Science & AI
+LangGraph · GoogleADK · Streamlit · PowerBI · Snowflake · BigQuery
 
 ### 🌐 Web Development
-Next.js · React · Langchain · Hardhat · Tailwind · ethers.js · IPFS
+Next.js · React · Hardhat · Tailwind · ethers.js · IPFS
 
-### ☁️ Cloud Services & Automation:
-- Automated AI-driven marketing and analytics pipelines
-- Discord bots
-- Internal infrastructure automations
-- Developing AI Agents
+### ☁️ Cloud Services:
+- GCP
+- AWS: EC2, Lambda, S3
+- Digital Ocean: Droplets, App Platform, PostgreSQL
+- Netlify
 
 ### 🔧 Infrastructure & Blockchain:
 - RPC Nodes, Validators, & Faucets
